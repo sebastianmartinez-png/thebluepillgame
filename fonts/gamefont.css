@@ -1,0 +1,15 @@
+@font-face {
+    font-family: GameFont;
+    src: url("monofonto rg.otf");
+    font-stretch: condensed;
+}
+
+/*Perfect DOS VGA 437.ttf
+*/
+
+.IIV::-webkit-media-controls-play-button,
+video::-webkit-media-controls-start-playback-button {
+    opacity: 0;
+    pointer-events: none;
+    width: 5px;
+}

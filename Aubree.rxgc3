@@ -1,0 +1,324 @@
+{
+  "PropagatedMaskColors": {
+    "MV_Skin": null,
+    "MV_Eyes": null,
+    "MV_Hair1": "Aubree Hair"
+  },
+  "Elements": [
+    {
+      "MaskColors": {
+        "MV_Undies": null
+      },
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Body_p01",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Face_p01",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {
+        "MV_Hair2": null
+      },
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_RearHair_p09",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Ears_p01",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Eyes_p08",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Eyebrows_p01",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Nose_p02",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {},
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Mouth_p02",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    },
+    {
+      "MaskColors": {
+        "MV_Cloth1": "RMMV Clothing Color 5",
+        "MV_Cloth2": "RMMV Clothing Color 7",
+        "MV_Cloth3": null,
+        "MV_Cloth4": "RMMV Clothing Color 2"
+      },
+      "Offsets": {
+        "FG": {
+          "X": 0,
+          "Y": 0
+        },
+        "TV": {
+          "X": 0,
+          "Y": 0
+        },
+        "TVD": {
+          "X": 0,
+          "Y": 0
+        },
+        "SV": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      "Resource": "MV_Female_Clothing_p17",
+      "TileOffsets": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      },
+      "TileRotation": {
+        "FG": {},
+        "TV": {},
+        "TVD": {},
+        "SV": {}
+      }
+    }
+  ]
+}
